@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"itec3030.assignments.a1","l":"Building"},{"p":"itec3030.assignments.a1","l":"Controller"},{"p":"itec3030.assignments.a1","l":"Main"},{"p":"itec3030.assignments.a1","l":"QuickThermostat"},{"p":"itec3030.assignments.a1","l":"Room"}]
